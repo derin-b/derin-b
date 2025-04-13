@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Derin 👋</h1>
 <p align="center">
   🌍 Android Developer | 💡 Tech for Social Impact  
@@ -28,12 +26,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 ![Derin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
+-->
 ---
 
 ### 📫 Connect With Me
