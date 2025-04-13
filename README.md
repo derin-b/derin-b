@@ -37,7 +37,6 @@
 ### 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/aderinola-bankole)
-- [Twitter](https://twitter.com/yourhandle)
 - Email: derinola.bankole@gmail.com
 
 ---
